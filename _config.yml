@@ -1,0 +1,5 @@
+title: David's AI research reflections and engineering lessons
+description: Research + engineering notes on AI.
+theme: minima
+plugins:
+  - jekyll-feed
