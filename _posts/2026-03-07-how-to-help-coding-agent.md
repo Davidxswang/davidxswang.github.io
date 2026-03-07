@@ -2,6 +2,7 @@
 layout: post
 title: "How to Help a Coding Agent"
 date: 2026-03-07
+excerpt: Coding agents do better when you give them full context, the right tools, and direct feedback from the systems they touch.
 tags: [how]
 ---
 

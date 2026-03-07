@@ -2,6 +2,7 @@
 layout: post
 title: "How to DO Evals"
 date: 2026-03-05
+excerpt: Why eval matters, the three conditions that make it trustworthy, and the four parts of an end-to-end eval system.
 tags: [how]
 ---
 

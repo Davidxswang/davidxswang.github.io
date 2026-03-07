@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, I’m David. This is where I share AI and engineering notes from my work and research.
+Hi, I'm David. I work on AI products and use this site to write down what I learn about evaluation, agentic workflows, and engineering practice.
