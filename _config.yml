@@ -1,5 +1,16 @@
-title: David's AI research reflections and engineering lessons
-description: Research + engineering notes on AI.
+title: David Wang
+tagline: AI research reflections + engineering lessons
+description: Notes on agentic workflows, evaluation systems, and building AI products.
+url: https://davidxswang.github.io
+lang: en-US
+timezone: America/Los_Angeles
+author:
+  name: David Wang
+show_excerpts: true
+header_pages:
+  - about.md
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
