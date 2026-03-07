@@ -4,8 +4,7 @@ description: Notes on agentic workflows, evaluation systems, and building AI pro
 url: https://davidxswang.github.io
 lang: en-US
 timezone: America/Los_Angeles
-author:
-  name: David Wang
+author: David Wang
 show_excerpts: true
 header_pages:
   - about.md
