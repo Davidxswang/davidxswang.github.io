@@ -133,6 +133,19 @@ code {
   background: var(--accent-soft);
 }
 
+.equation {
+  margin: 1.25rem 0 1.4rem;
+  padding: 1rem 1.2rem;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-strong);
+  box-shadow: var(--shadow);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+}
+
 .site-footer {
   border-top: 1px solid var(--border);
   background: #f1ece0;
@@ -163,5 +176,9 @@ code {
 
   .home > p {
     font-size: 1.02rem;
+  }
+
+  .equation {
+    font-size: 1.05rem;
   }
 }

@@ -22,17 +22,17 @@ I think evals serve **two purposes**.
 
 The cleanest way I know to frame this is:
 
-$$
-Q = \mathbb{E}_{x \sim P_{\mathrm{real}}}[\mathrm{score}(f_{\mathrm{prod}}(x))]
-$$
+<div class="equation">
+  Q = E<sub>x ~ P<sub>real</sub></sub>[score(f<sub>prod</sub>(x))]
+</div>
 
 This is the true product quality. It is the expected score of your production system over real user inputs.
 
 What eval gives you is only an estimate:
 
-$$
-\hat{Q}_n = \frac{1}{n} \sum_i \mathrm{score}(f_{\mathrm{eval}}(x_i))
-$$
+<div class="equation">
+  Q̂<sub>n</sub> = (1 / n) Σ<sub>i</sub> score(f<sub>eval</sub>(x<sub>i</sub>))
+</div>
 
 If you want that estimate to mean anything, **three conditions** have to hold.
 
